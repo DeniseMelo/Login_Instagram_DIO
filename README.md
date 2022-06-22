@@ -1,5 +1,5 @@
 # Login_Instagram_DIO
-Reprodução da pagina de login do Instagram com HTML e CSS como requisito avaliativo no módulo básico de HTML e CSS com ênfase no  clean code e responsividade da página.
+Reprodução da pagina de login do Instagram com HTML e CSS como requisito avaliativo no módulo básico de HTML e CSS com ênfase no  clean code e responsividade da página para a Bootcamp Dio Santander
 # Link da página no Git pages:
 https://denisemelo.github.io/Login_Instagram_DIO/
 <div align="center">
